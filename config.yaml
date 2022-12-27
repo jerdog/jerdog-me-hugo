@@ -23,7 +23,7 @@ markup:
 Menus:
   main:
     - identifier: about
-      name: About
+      name: About Me
       url: /#about/
       weight: 1
     - identifier: blog
