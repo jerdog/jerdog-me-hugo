@@ -96,9 +96,9 @@ params:
           url: https://hachyderm.io/@jerdog
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/jeremymeiss
-      customIcons:
-        - icon: /fav.png
-          url: "https://jerdog.me"
+      # customIcons:
+      #   - icon: /fav.png
+      #     url: "https://jerdog.me"
 
   # About
   about:
