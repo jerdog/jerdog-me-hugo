@@ -1,0 +1,13 @@
+<footer>
+    <!-- Recent blog posts -->
+    {{ if .Site.GetPage "/posts" }}
+    {{ else }}
+    {{- partial "sections/footer/recentBlogPosts.html" . -}}
+    {{ end }}
+
+    <!-- Social Icons -->
+    {{- partial "sections/footer/socialNetwork.html" . -}}
+
+    <!-- Copyright -->
+    {{- partial "sections/footer/copyright.html" . -}}
+</footer>
