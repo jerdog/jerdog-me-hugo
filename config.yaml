@@ -28,7 +28,7 @@ Menus:
     #   weight: 1
     - identifier: blog
       name: Recent posts
-      url: /blog/
+      url: /posts/
       weight: 2
     # - identifier: projects
     #   name: Projects
@@ -42,7 +42,7 @@ Menus:
 params:
   title: Jeremy Meiss || DevRel / Community Professional
   description: "Jeremy Meiss is a DevRel / Community Professional"
-  favicon: "fav.png"
+  favicon: "/fav.png"
 
   useBootstrapCDN: false
 
@@ -302,8 +302,8 @@ params:
 
   footer:
     recentPosts:
-      path: "blogs"
-      count: 3
+      path: "posts"
+      count: 6
       title: Recent Posts
       enable: true
       disableFeaturedImage: false
