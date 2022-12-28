@@ -1,7 +1,8 @@
 <footer>
+    {{ if eq (trim .RelPermalink "/") "posts" }}
+    {{ else}}
     <!-- Recent blog posts -->
-    {{ if not (.GetPage "/posts") }}
-        {{- partial "sections/footer/recentBlogPosts.html" . -}}
+    {{- partial "sections/footer/recentBlogPosts.html" . -}}
     {{ end }}
 
     <!-- Social Icons -->
