@@ -1,8 +1,7 @@
 <footer>
     <!-- Recent blog posts -->
-    {{ if .Site.GetPage "/posts" }}
-    {{ else }}
-    {{- partial "sections/footer/recentBlogPosts.html" . -}}
+    {{ if not (.GetPage "/posts") }}
+        {{- partial "sections/footer/recentBlogPosts.html" . -}}
     {{ end }}
 
     <!-- Social Icons -->
