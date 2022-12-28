@@ -20,7 +20,7 @@ jobs:
       - checkout
       - run:
           name: Install Hugo
-          command: ./ci-install-hugo.sh
+          command: bash ./ci-install-hugo.sh
       - run:
           name: Build / Launch server
           command: hugo server
