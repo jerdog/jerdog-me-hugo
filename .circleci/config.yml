@@ -10,7 +10,7 @@ jobs:
     docker:
       - image: circleci/golang:latest
         environment:
-          HUGO_VERSION: 0.85
+          HUGO_VERSION: 0.109.0
     steps:
       - restore_cache:
           keys:
