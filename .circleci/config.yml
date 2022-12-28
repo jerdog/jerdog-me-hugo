@@ -22,8 +22,8 @@ jobs:
           name: Install Hugo
           command: bash ./ci-install-hugo.sh
       - run:
-          name: Build / Launch server
-          command: hugo server
+          name: Build site
+          command: hugo
       - save_cache:
           key: hugo-v2-{{ .Branch }}
           paths:
