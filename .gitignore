@@ -10,3 +10,11 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+
+# for node shit
+node_modules
+build
+npm-debug.log
+.nyc
+.env
+.DS_Store
