@@ -10,10 +10,6 @@ tags:
   - devrel
 toc: false
 ---
-*(Cover image by <a href="https://pixabay.com/users/GDJ-1086657/">Gordon Johnson</a> from <a href="https://pixabay.com/">Pixabay</a>)*
-
-***Note: This was originally posted on [Medium](https://medium.com/@jeremymeiss/developer-communities-and-why-your-company-should-care-e871ba3f75c5).***
-
 Odds are good that your company currently markets itself in one fashion or another, from Social Media to E-Mail Campaigns to online ads, traditional forms of advertising from radio, to TV and print. Those outlets likely provide you with some substantive returns on your advertising dollars, however chances are you could be losing out in one very important medium — Developers.
 
 If you’re a company offering a service or product for businesses or consumers to use, you are likely to be dealing with developers. As a company with a product like a tool or service or API, you should be taking steps to raise awareness of that product to developers. Developers will either be implementing your service/product into theirs or they’ll be creating something new with which to use yours to fulfill some need. There is no better way to work with these developers than through developer communities.
@@ -29,3 +25,7 @@ In the same respect, if that developer gets frustrated with a device or with an 
 We’ve seen it time, and time again. “But why should I care?” you may ask. I come back to the sphere of influence. How many people do you know of in your circle of friends, both close and acquaintances, who come to you and ask your opinion on something, whether it’s about a particular product or technology or even some sports trivia? For myself I count probably 100 people who at some point or another have asked my opinion on something — that’s my personal sphere of influence. Now for each of those 100, if only half of them act on that opinion and it influences their decision, I’ve influenced a good number of decisions, sales, etc. Now, if each of those repeat my opinion on the purchase of something and it influences another… you get the point. For lack of a better analogy, it’s multi-level-marketing in its purest form — hopefully without the creepy t-shirt and garage full of stuff you’ll never sell.
 
 Someone’s experience with your product, service, widget, etc. has the dramatic potential to influence not only their decision to stay, but also the decision of countless others to try and potentially stay. This is why I feel it is so important for a company to not only raise awareness with developers, and also to form honest relationships with them, involving them in building your product while building trust. As you do so, you will be well on your way to enabling the technically savvy to be your greatest champions.
+
+*(Cover image by <a href="https://pixabay.com/users/GDJ-1086657/">Gordon Johnson</a> from <a href="https://pixabay.com/">Pixabay</a>)*
+
+***Note: This was originally posted on [Medium](https://medium.com/@jeremymeiss/developer-communities-and-why-your-company-should-care-e871ba3f75c5).***
