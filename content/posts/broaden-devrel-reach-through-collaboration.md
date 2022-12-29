@@ -11,8 +11,6 @@ tags:
 draft: false
 toc: false
 ---
-_Cover image by <a href="https://pixabay.com/users/civilservicelocal-5368741/">civilservicelocal</a> from <a href="https://pixabay.com/">Pixabay</a>_
-
 Community is hard. It just is. There. I said it. That's the blog post.
 
 Seriously though, building developer communities is hard work. It's long hours of looking at stats, metrics, and worrying about if what you're building is sustainable or, heck, interesting enough. It's putting yourself out there in every interaction, from social media to blog posts to community threads and answers to meetup and conference talks. It's playing the long game of community growth and member lifecycle, which can take years off of your mental stability. (You should have known me _before_ I started doing developer community work!)
@@ -46,3 +44,5 @@ Doing these things obviously raises awareness of your brand, but it also:
 - Sharpens your skills in building collaborative materials
 
 If these aren't happening, by omission or lack of support from upper management, you're severely limiting the reach of your community, and you run the very real risk of your community becoming one-dimensional. Once that happens, it will eventually become stale & ROI will be questioned often. And I will say this: if your attempts to raise collaboration in your approach and fulfill your mandate through multiple means, are met with resistance or outright blockage, it's probably time to find a new job. It's my experience that those situations rarely correct themselves, and you will not reach your true potential in Community or Developer Relations.
+
+_Cover image by <a href="https://pixabay.com/users/civilservicelocal-5368741/">civilservicelocal</a> from <a href="https://pixabay.com/">Pixabay</a>_

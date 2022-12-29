@@ -10,8 +10,6 @@ tags:
   - career
 toc: false
 ---
-***cover photo by [Dariusz Grosa](https://www.pexels.com/@doubleseven?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/aerial-photo-of-green-scenery-and-winding-road-808910/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
-
 Hi, I'm Jeremy. I've spent the last roughly 25 years in IT, with the last 12 or so being a part of technical communities and Developer Relations (DevRel). For those who are new to the term, DevRel is literally about _building relationships with the developer community_. It is being the advocate for developers using your product, service, "thing", back to areas in your company or organisation, like Product and Engineering, about their experience(s), suggestions, etc. As Mary Thengvall likes to describe DevRel in her [book](https://t.co/axOdZlTEth):
 
 >_To the community I represent the company; to the company I represent the community. I must have both of their interests in mind at all times._
@@ -80,3 +78,6 @@ One thing that stands out for me, and I want to make sure others hear this, is t
 >_Developers don't care what you know, until they know that you care._ **-Jeremy Meiss**
 
 I love the DevRel community, for what it's taught me and given me, and what I hope to give back. Reach out if you have any thoughts or questions around ways you too can embark on the DevRel journey.
+
+***cover photo by [Dariusz Grosa](https://www.pexels.com/@doubleseven?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels) from [Pexels](https://www.pexels.com/photo/aerial-photo-of-green-scenery-and-winding-road-808910/?utm_content=attributionCopyText&utm_medium=referral&utm_source=pexels)***
+

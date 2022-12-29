@@ -11,9 +11,6 @@ tags:
   - community
 toc: false
 ---
-
-***"devrel" on cover image taken from [devrel.net/hoopy](https://devrel.net)***
-
 So the year is 2008. My wife and I have 3 kids, 2 full-time jobs, and we’ve just bought a coffee shop. No one ever said I was the smartest pea in the pod.
 
 ![](https://cdn-images-1.medium.com/max/360/1*P-Z77AROx4If0Bfy9rcY9g.png)<figcaption>My wife and I, circa 2010.</figcaption>
@@ -192,3 +189,5 @@ Each one of these things could be a long diatribe in and of themselves, so I’l
 In 2010, after two years of my wife and I each having two full-time jobs and three kids, we sold our coffee shop. We had built back up the business, grew awareness further outside our area, attended coffee conferences and represented companies, was featured in an industry magazine, and it was all great. But it was also extremely hard, very taxing on our kids, our relationships with others, and our marriage. We came to one critical realisation: we knew we could have a successful business, or know our kids and have a family. And they will win out every time. And we don’t for one second regret selling. Sure we miss not having an espresso machine in the house, or we miss being able to make our own cappuccino or latte when we know from the sound of the milk bring steamed or watching the barista make grind and pour the shots how the drink is going to taste — from across the room. But what we miss the most, and was the hardest to get used to, was the loss of community we had after spending day-in and day-out with the patrons — and frankly as I look back it’s the things I learned through coffee which influence how I view Developer Relations today. Because DevRel is like coffee.
 
 ![](https://cdn-images-1.medium.com/max/597/0*eOweFcer5xmng8Jt.gif)
+
+***"devrel" on cover image taken from [devrel.net/hoopy](https://devrel.net)***

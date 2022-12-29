@@ -11,8 +11,6 @@ image: /images/sprintHeartbreak.png
 description: "Picking a wireless provider can sometimes be like dating - you both present yourselves as something you probably aren’t, but not willing to admit it until after you’re locked in."
 toc: false
 ---
-***Note: This was [written by me](http://briefmobile.com/the-13-year-romance-is-over-are-there-greener-pastures/) in 2012 on a site called BriefMobile. When I left there my articles were re-attributed to someone else. In an effort to retain ownership of my writing I am re-posting on something that I own.***
-
 ## THE ROMANCE IS OVER — HEARTBREAK ANYONE?
 It was 13 years ago when I met my wireless carrier, Sprint, at a local Radio Shack. I had just been dumped by Nextel and was looking for a new relationship, someone willing to accept me. Arms were open wide and I signed on the dotted line and was handed a nice Qualcomm QCP-2700 brick of a phone.
 
@@ -43,3 +41,5 @@ So before I was to cancel service, I needed to find something else, one in which
 
 ## The breakup
 So after 13 years, my wireless carrier and I have broken up, and in a twist on the typical breakup story, it’s not me, Sprint — it’s you. I have to say, coupled with the amazing HSPA+ data speeds of AT&T via Straight Talk (3–4x faster on average over Sprint’s 3G and WiMAX), the grass IS greener on the other side.
+
+***Note: This was [written by me](http://briefmobile.com/the-13-year-romance-is-over-are-there-greener-pastures/) in 2012 on a site called BriefMobile. When I left there my articles were re-attributed to someone else. In an effort to retain ownership of my writing I am re-posting on something that I own.***
