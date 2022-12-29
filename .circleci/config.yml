@@ -6,7 +6,7 @@ orbs:
 jobs:
   build:   
     docker:
-      - image: circleci/golang:latest
+      - image: cimg/go:1.19
         environment:
           HUGO_VERSION: 0.109.0
     steps:
@@ -46,9 +46,14 @@ jobs:
           command: netlify deploy --dir=public --prod --message="Deployed from CircleCI"
 
 workflows:
-  main:
+  default-flow:
     jobs:
       - build
-      - deploy
+      - deploy:
+          requires:
+            - build
+          filters:
+            branches:
+              only: main
 
 # VS Code Extension Version: 1.5.1
