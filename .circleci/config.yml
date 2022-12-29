@@ -1,12 +1,10 @@
 version: 2.1
 
-workflows:
-  main:
-    jobs:
-      - build-and-test
+orbs:
+  node: circleci/node@5.0.3
 
 jobs:
-  build-and-test:   
+  build:   
     docker:
       - image: circleci/golang:latest
         environment:
@@ -28,7 +26,29 @@ jobs:
           key: hugo-v2-{{ .Branch }}
           paths:
             - "/tmp/hugo_cache/"      
+      - persist_to_workspace:
+          root: .
+          paths:
+            - public
 
+  deploy:
+    docker:
+      - image: circleci/node:latest
+    steps:
+      - attach_workspace:
+          at: .
+      - node/install-packages
+      - run: 
+          name: "Setup custom env variables"
+          command: echo 'export NETLIFY_SITE_ID="$NETLIFY_SITE_ID"' >> $BASH_ENV
+      - run:
+          name: Deploy to Netlify
+          command: netlify deploy --dir=public --prod --message="Deployed from CircleCI"
 
+workflows:
+  main:
+    jobs:
+      - build
+      - deploy
 
 # VS Code Extension Version: 1.5.1
