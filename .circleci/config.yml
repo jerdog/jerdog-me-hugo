@@ -35,15 +35,15 @@ jobs:
     docker:
       - image: circleci/node:latest
     steps:
+      - run: npm install netlify-cli
       - attach_workspace:
           at: .
-      - node/install-packages
       - run: 
           name: "Setup custom env variables"
           command: echo 'export NETLIFY_SITE_ID="$NETLIFY_SITE_ID"' >> $BASH_ENV
       - run:
           name: Deploy to Netlify
-          command: netlify deploy --dir=public --prod --message="Deployed from CircleCI"
+          command: netlify deploy --dir=./project/public --prod --message="Deployed from CircleCI"
 
 workflows:
   default-flow:
