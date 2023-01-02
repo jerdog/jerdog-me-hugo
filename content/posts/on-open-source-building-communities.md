@@ -15,7 +15,7 @@ toc: true
 
 Open source is where true innovation happens. There. I’ve said it. The free exchange of ideas, the creative juices that comes from open source and open source communities is unparalleled in proprietary businesses and software. So now that’s out of the way, let’s talk about what open source is and the advantages it can bring you and/or your business, and then we'll talk about the core pieces of building communities.
 
-![doctorcool](images/TheDoctor_cool.gif)
+![doctorcool](/images/TheDoctor_cool.gif)
 
 ## Open Source: The What and The Why
 The [Open Source Initiative](https://opensource.org){:target="_blank"} defines open source as:
