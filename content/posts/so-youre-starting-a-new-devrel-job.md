@@ -96,7 +96,7 @@ Over the next 3 months (equal to the first 6 months on the job), start to implem
 ## Insight from others in the community
 As I prepared to write this blog post, after thinking about it for a _long_ time, I reached out to the DevRel community on [Twitter](https://twitter.com/iamjerdog/status/1598310868831420416?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg) and [Mastodon](https://hachyderm.io/@jerdog/109438713777579466) to see what other insights they had to share, which you can find below.
 
-{{< stweet user="picsoung" id="1598376849725267969" >}}
+{{< tweet user="picsoung" id="1598376849725267969" >}}
 
 {% embed https://twitter.com/picsoung/status/1598376849725267969?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg %}
 
