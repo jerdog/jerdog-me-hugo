@@ -15,12 +15,12 @@ toc: true
 
 Open source is where true innovation happens. There. I’ve said it. The free exchange of ideas, the creative juices that comes from open source and open source communities is unparalleled in proprietary businesses and software. So now that’s out of the way, let’s talk about what open source is and the advantages it can bring you and/or your business, and then we'll talk about the core pieces of building communities.
 
-![doctorcool](images/TheDoctor_cool.gif)
+![doctorcool](/images/TheDoctor_cool.gif)
 
 ## Open Source: The What and The Why
-The [Open Source Initiative](https://opensource.org){:target="_blank"} defines open source as:
+The [Open Source Initiative](https://opensource.org) defines open source as:
 
-> "software that can be freely used, changed, and shared (in modified or unmodified form) by anyone" ([source](https://opensource.org/osd){:target="_blank"})
+> "software that can be freely used, changed, and shared (in modified or unmodified form) by anyone" ([source](https://opensource.org/osd))
 
 At last month’s Open Source Summit in San Francisco, the Executive Director of the Linux Foundation, Jim Zemlin, shared the following stats:
 
@@ -32,8 +32,7 @@ At last month’s Open Source Summit in San Francisco, the Executive Director of
 
 Jim continued with the following statement:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Zemlin: Today, nobody makes anything without open source. It’s a fact of how modern development works. <a href="https://twitter.com/hashtag/OSSummit?src=hash&amp;ref_src=twsrc%5Etfw">#OSSummit</a></p>&mdash; The Linux Foundation (@linuxfoundation) <a href="https://twitter.com/linuxfoundation/status/907274986892791808?ref_src=twsrc%5Etfw">September 11, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+{{< tweet user="linuxfoundation" id="907274986892791808" >}}
 
 While that is a seemingly broad, subjective statement, I do believe it holds some merit. It is almost impossible for anyone to develop something without using something that is open source in one fashion or another, whether that be a library, an IDE, or as the base for their product. In addition different licenses allow for different ways of using the code, and is a whole other long, drawn out discussion to have at some other time.
 
@@ -42,13 +41,13 @@ Open source presents many opportunities for independent developers and companies
 
 Another opportunity is around a potential **lower cost to adoption**. Depending on where you are in your implementation, you can lower the upfront costs to begin implementing your idea. This allows you to shift costs from purchasing/licensing proprietary software to customizing and then implementing your core product.
 
-Open source projects often carry with them the virtue of being developed by distributed contributors which means they often are unbridled by internal policy and other factors. This all but translates to **modern ways of working**, allowing your team or project to take advantage. With everything being electronic, from issues to commits, and developed in the open, this brings about a level of transparency and intentionality to activities that can only benefit you and your project. With many different contributors to the core open source projects you may be using, multiple activities tend to be happening at once with testing being done by multiple parties at any given time. Throw in modern CI/CD tools like [Gitlab](https://gitlab.com){:target="_blank"}, [Travis CI](https://travis-ci.org/){:target="_blank"}, and others, and many of the above can be automated during your development cycle, thus ensuring that the code you’re using is alive and well.
+Open source projects often carry with them the virtue of being developed by distributed contributors which means they often are unbridled by internal policy and other factors. This all but translates to **modern ways of working**, allowing your team or project to take advantage. With everything being electronic, from issues to commits, and developed in the open, this brings about a level of transparency and intentionality to activities that can only benefit you and your project. With many different contributors to the core open source projects you may be using, multiple activities tend to be happening at once with testing being done by multiple parties at any given time. Throw in modern CI/CD tools like [Gitlab](https://gitlab.com), [Circle CI](https://circleci.com/), and others, and many of the above can be automated during your development cycle, thus ensuring that the code you’re using is alive and well.
 
 Open source is all around us. Heck, with traditionally proprietary companies like Microsoft and Apple open sourcing their primary development environments (Visual Studio Code and Swift respectively), it isn’t hard to understand why open source participation continues to grow. In the mobile world, Android has exploded in large part due to its open source roots, and Ubuntu in the desktop world has benefited as well. **Open source is the past, present, and future!**
 
 Keeping software up-to-date is essential to ensuring that bugs and security issues are mitigated as quickly as possible and limiting the effect to the public. However, when you're relying on a proprietary software company to provide updates, you're at their mercy in when they decide to deploy them. A great case in point would be buying a Google phone (Nexus or Pixel) as opposed to something from Samsung or HTC: you'll get faster software updates as you're not bridled by the OEMs need to modify everything. And we're not even adding carriers into the mix. Often these proprietary companies don’t feel the same urgency that you do, even though the software may be mission-critical to you and your business. With open source software you’re able to either contribute the fix yourself, or pull the fix down, and **patch your code on your schedule**. By **contributing the fixes upstream** you’re illustrating the positive lifecycle that happens in open source, thus providing benefits for you and everyone else - meaning everyone wins!
 
-![everyonewins](images/everyonewins.jpg)
+![everyonewins](/images/everyonewins.jpg)
 
 ### Free as in speech, not beer
 We’ve all seen terms like “FOSS”, “Libre” - which all refer to free, open source software. The term “free” does not necessarily mean that the software is without cost - sometimes it is, sometimes it isn’t. What “free” more refers to the rights that the software offers to the consumer by default, with the monetary cost being something subjective to the respective developer/organization. For instance, software like Adobe Flash or Internet Explorer can be freely downloaded but is completely non-free proprietary software.
@@ -64,7 +63,7 @@ When software is not FOSS, you have a high potential to welcome risks as a user 
 
 Open source software is also like the “give-a-penny-take-a-penny” philosophy of software. If you use the software, whatever it is, there is an implicit obligation to give back to the community. Think of it as the Golden Rule applied to software. Some might remember the early Shareware models for software “back in the day”. Typically in the license for the software, which often was actually distributed on floppy disks between friends or on BBS’s, would be a clause which stated that you were able to share the software (hence “shareware”) with anyone, and if you found it useful and wanted to continue to use it you would need to send some amount to the developer. This has changed over time with the onset of different software licenses and online software repos like GitHub, but in the 1980s this was the norm.
 
-![keepcalm](images/keepcalm-opensource.jpg)
+![keepcalm](/images/keepcalm-opensource.jpg)
 
 ## Open source == Community; Community == Open source
 Open source software projects tend to naturally facilitate community, whether something intentional or not. The [Open Source Initiative](https://opensource.org/community) has the following to say:

@@ -96,21 +96,16 @@ Over the next 3 months (equal to the first 6 months on the job), start to implem
 ## Insight from others in the community
 As I prepared to write this blog post, after thinking about it for a _long_ time, I reached out to the DevRel community on [Twitter](https://twitter.com/iamjerdog/status/1598310868831420416?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg) and [Mastodon](https://hachyderm.io/@jerdog/109438713777579466) to see what other insights they had to share, which you can find below.
 
-{% embed https://twitter.com/picsoung/status/1598376849725267969?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg %}
-
-{% embed https://twitter.com/bas_van_leeuwen/status/1598322211546341376?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg %}
-
-{% embed https://twitter.com/mpchlets/status/1598319890519461889?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg %}
-
-{% embed https://twitter.com/tristanlombard2/status/1598316512426745864?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg %}
-
-{% embed https://twitter.com/tristanlombard2/status/1598327923139821579?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg %}
-
-{% embed https://twitter.com/tristanlombard2/status/1598327996863188996?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg %}
+{{< tweet user="picsoung" id="1598376849725267969" >}}
+{{< tweet user="bas_van_leeuwen" id="1598322211546341376" >}}
+{{< tweet user="mpchlets" id="1598319890519461889" >}}
+{{< tweet user="tristanlombard2" id="1598316512426745864" >}}
+{{< tweet user="tristanlombard2" id="1598327923139821579" >}}
+{{< tweet user="tristanlombard2" id="1598327996863188996" >}}
 
 (Note: I hadn’t heard of the Likert scale before, though I had used it in other activities, so it’s worth a good read and implementation. Thanks Tristan!!!)
 
-{% embed https://twitter.com/dparzych/status/1599887914271264768?t=ii7Hc5NLhjObRcouok_pxg %}
+{{< tweet user="dparzych" id="1599887914271264768" >}}
 
 And some additional thoughts from [Mimmis on LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7005570989564588032?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7005570989564588032%2C7006010382095900672%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287006010382095900672%2Curn%3Ali%3Aactivity%3A7005570989564588032%29)
 >Great pragmatic advice around process and types of questions for anyone starting a new job, not just in DevRel, where you are tasked with coming up with plans and recommendations (certainly works for developer marketing and B2B marketing as well). 

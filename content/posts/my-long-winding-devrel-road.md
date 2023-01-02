@@ -16,7 +16,7 @@ Hi, I'm Jeremy. I've spent the last roughly 25 years in IT, with the last 12 or 
 
 It wasn't until I recorded an episode on DevRel for the SlashData Podcast that I looked back at where I began in DevRel and Community, and became surprised at a few things I had forgotten. 
 
-{% twitter 1120692581913047040 %}
+{{< tweet user="iamjerdog" id="1120692581913047040" >}}
 
 At certain times in your career it is good to reflect on the journey, the things you've learned, gain insight that you didn't previously think of, and prepare for the future. This is one of those times, and quite honestly I think the first time I've ever truly done this.
 
@@ -49,16 +49,17 @@ My first official job was at 14 as Office Manager for a garage door installation
 
 When I graduated (1995) I took a job at an ISP in Kansas City as a Customer Support Rep, but soon moved into Systems Administration (Sun Sparq's) and Network Admin (Cisco Routers) while learning HTML and Perl (remembering none of it). It was there that I really started to find what I enjoyed and would serve me well in later positions: communicating technical to the non-technical / non-technical to the technical.
 
-![people skills](https://2ley7l42nt9s3jvzio2zneqa-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/download-5.jpg)
-<figcaption>When I explained what I did at Sprint and subsequent positions to my wife, she said "Oh like the `people person` from Office Space?" I love my wife.</figcaption>
+Fun fact: When I explained what I did at Sprint and subsequent positions to my wife, she said "Oh like the people person' from Office Space?" I love my wife.
+![people skills](/images/people_skills.GIF)
+
 
 I spent two years there, leaving after not getting the official job I had been doing for the previous 6 months and being told by the CEO that I would never amount to anything in tech:
 
-{% twitter 1108765817989222400 %}{% twitter 1108768974005661696 %}{% twitter 1108769459894796288 %}
+{{< tweet user="iamjerdog" id="1108769459894796288" >}}
 
 After a short stint trying to manage IT for a small, local company trying to become the online classified listing hub (This was 1997, eBay (AuctionWeb) started in 1995 - it failed, but I left before), I moved to Hallmark Cards. Yes, that Hallmark, at the Corporate HQ in Kansas City. Initially hired in as a Customer Support Rep, I quickly showed that my ability to couple my tech acumen with good people skills and communication could be used elsewhere, I became the person who would be called into meetings to help advocate for the [internal] customer to IT. Eventually, I took on a role called "Technical Liaison", which I didn't realise until recently was my first, official foray into Developer Relations. It was 1999.
 
-{% youtube rblt2EtFfC4 %}
+{{< youtube rblt2EtFfC4 >}}  
 
 ## 200x: A (technology) Odyssey
 After the _near_ collapse of the world in the year 2000 `</sarcasm>`, I started working at Sprint whose corporate HQ was in KC. After a few different roles, I landed back doing a variety of different roles under the guise of "Systems Analyst", which means I was doing systems administration (Linux servers with VMWare under my desk), database administration (MSSQL, MySQL), web app development (converting Excel spreadsheets as databases and Access databases to actual databases with web frontends), project management, and probably janitorial as well. With all of that, I continually found myself again being the advocate for the business (and customers) back to IT on different projects and systems.
