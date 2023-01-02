@@ -1,4 +1,4 @@
-{{ if .Title }}
+<!-- {{ if .Title }}
   <figure>
     <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
     <figcaption>{{ .Title }}</figcaption>
@@ -6,3 +6,12 @@
 {{ else }}
   <img src="{{ .Destination | safeURL }}" alt="{{ .Text }}">
 {{ end }}
+--> 
+{{ $image := .Page.Resources.GetMatch .Destination }}
+{{ if gt $image.Width 640 }}
+    {{ $image = $image.Resize "640x" }}
+{{ end }}
+<figure>
+    <img src="{{ $image.RelPermalink | safeURL }}" {{ with .Text }} alt="{{ . }}" {{ end }} {{ with .Title }} title="{{ . }}" {{ end }}/>
+<!--    {{ with .Title}} <figcaption>{{ . | markdownify }}</figcaption> {{ end }} -->
+</figure>
