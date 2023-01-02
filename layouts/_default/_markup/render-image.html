@@ -8,8 +8,8 @@
 {{ end }}
 --> 
 {{ $image := .Page.Resources.GetMatch .Destination }}
-{{ if gt $image.Width 640 }}
-    {{ $image = $image.Resize "640x" }}
+{{ if gt $image.Width 640px }}
+    {{ $image = $image.Resize "640px" }}
 {{ end }}
 <figure>
     <img src="{{ $image.RelPermalink | safeURL }}" {{ with .Text }} alt="{{ . }}" {{ end }} {{ with .Title }} title="{{ . }}" {{ end }}/>
