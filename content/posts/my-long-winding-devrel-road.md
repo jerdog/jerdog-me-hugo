@@ -49,7 +49,9 @@ My first official job was at 14 as Office Manager for a garage door installation
 
 When I graduated (1995) I took a job at an ISP in Kansas City as a Customer Support Rep, but soon moved into Systems Administration (Sun Sparq's) and Network Admin (Cisco Routers) while learning HTML and Perl (remembering none of it). It was there that I really started to find what I enjoyed and would serve me well in later positions: communicating technical to the non-technical / non-technical to the technical.
 
-![people skills](/images/people_skills.GIF alt="" title="When I explained what I did at Sprint and subsequent positions to my wife, she said 'Oh like the people person from Office Space?' I love my wife.")
+Fun fact: When I explained what I did at Sprint and subsequent positions to my wife, she said "Oh like the people person' from Office Space?" I love my wife.
+![people skills](/images/people_skills.GIF)
+
 
 I spent two years there, leaving after not getting the official job I had been doing for the previous 6 months and being told by the CEO that I would never amount to anything in tech:
 
@@ -57,7 +59,7 @@ I spent two years there, leaving after not getting the official job I had been d
 
 After a short stint trying to manage IT for a small, local company trying to become the online classified listing hub (This was 1997, eBay (AuctionWeb) started in 1995 - it failed, but I left before), I moved to Hallmark Cards. Yes, that Hallmark, at the Corporate HQ in Kansas City. Initially hired in as a Customer Support Rep, I quickly showed that my ability to couple my tech acumen with good people skills and communication could be used elsewhere, I became the person who would be called into meetings to help advocate for the [internal] customer to IT. Eventually, I took on a role called "Technical Liaison", which I didn't realise until recently was my first, official foray into Developer Relations. It was 1999.
 
-{{< youtube rblt2EtFfC4 >}}
+{{< youtube rblt2EtFfC4 >}}  
 
 ## 200x: A (technology) Odyssey
 After the _near_ collapse of the world in the year 2000 `</sarcasm>`, I started working at Sprint whose corporate HQ was in KC. After a few different roles, I landed back doing a variety of different roles under the guise of "Systems Analyst", which means I was doing systems administration (Linux servers with VMWare under my desk), database administration (MSSQL, MySQL), web app development (converting Excel spreadsheets as databases and Access databases to actual databases with web frontends), project management, and probably janitorial as well. With all of that, I continually found myself again being the advocate for the business (and customers) back to IT on different projects and systems.
