@@ -18,9 +18,9 @@ Open source is where true innovation happens. There. I’ve said it. The free ex
 ![doctorcool](/images/TheDoctor_cool.gif)
 
 ## Open Source: The What and The Why
-The [Open Source Initiative](https://opensource.org){:target="_blank"} defines open source as:
+The [Open Source Initiative](https://opensource.org) defines open source as:
 
-> "software that can be freely used, changed, and shared (in modified or unmodified form) by anyone" ([source](https://opensource.org/osd){:target="_blank"})
+> "software that can be freely used, changed, and shared (in modified or unmodified form) by anyone" ([source](https://opensource.org/osd)
 
 At last month’s Open Source Summit in San Francisco, the Executive Director of the Linux Foundation, Jim Zemlin, shared the following stats:
 
@@ -41,7 +41,7 @@ Open source presents many opportunities for independent developers and companies
 
 Another opportunity is around a potential **lower cost to adoption**. Depending on where you are in your implementation, you can lower the upfront costs to begin implementing your idea. This allows you to shift costs from purchasing/licensing proprietary software to customizing and then implementing your core product.
 
-Open source projects often carry with them the virtue of being developed by distributed contributors which means they often are unbridled by internal policy and other factors. This all but translates to **modern ways of working**, allowing your team or project to take advantage. With everything being electronic, from issues to commits, and developed in the open, this brings about a level of transparency and intentionality to activities that can only benefit you and your project. With many different contributors to the core open source projects you may be using, multiple activities tend to be happening at once with testing being done by multiple parties at any given time. Throw in modern CI/CD tools like [Gitlab](https://gitlab.com){:target="_blank"}, [Travis CI](https://travis-ci.org/){:target="_blank"}, and others, and many of the above can be automated during your development cycle, thus ensuring that the code you’re using is alive and well.
+Open source projects often carry with them the virtue of being developed by distributed contributors which means they often are unbridled by internal policy and other factors. This all but translates to **modern ways of working**, allowing your team or project to take advantage. With everything being electronic, from issues to commits, and developed in the open, this brings about a level of transparency and intentionality to activities that can only benefit you and your project. With many different contributors to the core open source projects you may be using, multiple activities tend to be happening at once with testing being done by multiple parties at any given time. Throw in modern CI/CD tools like [Gitlab](https://gitlab.com), [Circle CI](https://circleci.com/), and others, and many of the above can be automated during your development cycle, thus ensuring that the code you’re using is alive and well.
 
 Open source is all around us. Heck, with traditionally proprietary companies like Microsoft and Apple open sourcing their primary development environments (Visual Studio Code and Swift respectively), it isn’t hard to understand why open source participation continues to grow. In the mobile world, Android has exploded in large part due to its open source roots, and Ubuntu in the desktop world has benefited as well. **Open source is the past, present, and future!**
 
