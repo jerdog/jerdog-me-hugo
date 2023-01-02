@@ -49,7 +49,7 @@ My first official job was at 14 as Office Manager for a garage door installation
 
 When I graduated (1995) I took a job at an ISP in Kansas City as a Customer Support Rep, but soon moved into Systems Administration (Sun Sparq's) and Network Admin (Cisco Routers) while learning HTML and Perl (remembering none of it). It was there that I really started to find what I enjoyed and would serve me well in later positions: communicating technical to the non-technical / non-technical to the technical.
 
-![people skills](/images/people_skills.GIF "" "When I explained what I did at Sprint and subsequent positions to my wife, she said "Oh like the `people person` from Office Space?" I love my wife.")
+![people skills](/images/people_skills.GIF "" "When I explained what I did at Sprint and subsequent positions to my wife, she said 'Oh like the people person from Office Space?' I love my wife.")
 
 I spent two years there, leaving after not getting the official job I had been doing for the previous 6 months and being told by the CEO that I would never amount to anything in tech:
 
