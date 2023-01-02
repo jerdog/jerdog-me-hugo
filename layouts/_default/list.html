@@ -24,8 +24,9 @@
                     {{ end }}
                     <div class="card-body bg-transparent p-4 shadow-sm">
                         <a href="{{ .RelPermalink }}" class="primary-font card-title">
-                            <h5 class="card-title bg-transparent" title="{{ .Title }}">{{ .Title }}</h5>
+                            <h5 class="card-title bg-transparent" title="{{ .Title }}">{{ .Title }}</h5>                           
                         </a>
+                        <h6>{{ partial "reading-time.html" . }}</h6>
                         <div class="card-text secondary-font">
                             <p>{{ .Summary | truncate 300}}</p>
                         </div>
