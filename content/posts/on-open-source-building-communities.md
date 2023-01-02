@@ -34,11 +34,6 @@ Jim continued with the following statement:
 
 {{< tweet user="linuxfoundation" id="907274986892791808" >}}
 
-<!--
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Zemlin: Today, nobody makes anything without open source. It’s a fact of how modern development works. <a href="https://twitter.com/hashtag/OSSummit?src=hash&amp;ref_src=twsrc%5Etfw">#OSSummit</a></p>&mdash; The Linux Foundation (@linuxfoundation) <a href="https://twitter.com/linuxfoundation/status/907274986892791808?ref_src=twsrc%5Etfw">September 11, 2017</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
--->
-
 While that is a seemingly broad, subjective statement, I do believe it holds some merit. It is almost impossible for anyone to develop something without using something that is open source in one fashion or another, whether that be a library, an IDE, or as the base for their product. In addition different licenses allow for different ways of using the code, and is a whole other long, drawn out discussion to have at some other time.
 
 ### Open source presents opportunity
