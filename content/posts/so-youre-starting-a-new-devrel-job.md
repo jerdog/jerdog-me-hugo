@@ -97,18 +97,11 @@ Over the next 3 months (equal to the first 6 months on the job), start to implem
 As I prepared to write this blog post, after thinking about it for a _long_ time, I reached out to the DevRel community on [Twitter](https://twitter.com/iamjerdog/status/1598310868831420416?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg) and [Mastodon](https://hachyderm.io/@jerdog/109438713777579466) to see what other insights they had to share, which you can find below.
 
 {{< tweet user="picsoung" id="1598376849725267969" >}}
-
-{% embed https://twitter.com/picsoung/status/1598376849725267969?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg %}
-
-{% embed https://twitter.com/bas_van_leeuwen/status/1598322211546341376?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg %}
-
-{% embed https://twitter.com/mpchlets/status/1598319890519461889?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg %}
-
-{% embed https://twitter.com/tristanlombard2/status/1598316512426745864?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg %}
-
-{% embed https://twitter.com/tristanlombard2/status/1598327923139821579?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg %}
-
-{% embed https://twitter.com/tristanlombard2/status/1598327996863188996?s=61&t=YvgB3Gv7I5wD_1Pbicjrfg %}
+{{< tweet user="bas_van_leeuwen" id="1598322211546341376" >}}
+{{< tweet user="mpchlets" id="1598319890519461889" >}}
+{{< tweet user="tristanlombard2" id="1598316512426745864" >}}
+{{< tweet user="tristanlombard2" id="1598327923139821579" >}}
+{{< tweet user="tristanlombard2" id="1598327996863188996" >}}
 
 (Note: I hadn’t heard of the Likert scale before, though I had used it in other activities, so it’s worth a good read and implementation. Thanks Tristan!!!)
 
