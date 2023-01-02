@@ -8,7 +8,8 @@
 	=======
 */}}
 
-{{ $urlPre := "https://cdn.syndication.twimg.com/tweet?id="}}
+{{/* $urlPre := "https://cdn.syndication.twimg.com/tweet?id=" */}}
+{{ $urlPre := "https://api.twitter.com/2/tweets/"}}
 {{ $id := .Get 0 }}
 {{ $json := getJSON $urlPre $id }}
 {{ $text := .Page.RenderString $json.text }}
