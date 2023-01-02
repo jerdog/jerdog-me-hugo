@@ -20,7 +20,7 @@ Open source is where true innovation happens. There. I’ve said it. The free ex
 ## Open Source: The What and The Why
 The [Open Source Initiative](https://opensource.org) defines open source as:
 
-> "software that can be freely used, changed, and shared (in modified or unmodified form) by anyone" ([source](https://opensource.org/osd)
+> "software that can be freely used, changed, and shared (in modified or unmodified form) by anyone" ([source](https://opensource.org/osd))
 
 At last month’s Open Source Summit in San Francisco, the Executive Director of the Linux Foundation, Jim Zemlin, shared the following stats:
 
