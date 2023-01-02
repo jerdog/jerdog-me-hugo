@@ -32,7 +32,7 @@ At last month’s Open Source Summit in San Francisco, the Executive Director of
 
 Jim continued with the following statement:
 
-{{ < tweet user="linuxfoundation" id="907274986892791808" >}}
+{{< tweet user="linuxfoundation" id="907274986892791808" >}}
 
 <!--
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Zemlin: Today, nobody makes anything without open source. It’s a fact of how modern development works. <a href="https://twitter.com/hashtag/OSSummit?src=hash&amp;ref_src=twsrc%5Etfw">#OSSummit</a></p>&mdash; The Linux Foundation (@linuxfoundation) <a href="https://twitter.com/linuxfoundation/status/907274986892791808?ref_src=twsrc%5Etfw">September 11, 2017</a></blockquote>
