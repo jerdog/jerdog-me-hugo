@@ -21,6 +21,7 @@ markup:
       unsafe: true
 
 imaging:
+  fill: "600x400"
   anchor: Smart
   hint: photo
   quality: 75
