@@ -19,7 +19,7 @@ From 1995-1997 I worked at an Internet provider who was at the bleeding edge of 
 
 During my time as Network Admin, we had grown so much that we took over 3 total floors in this building. The decision was made, not by the clearest of minds I will say, to have myself and the support team run the Cat5 cable, and let the contractors connect the cables to the wall outlets, and number them there.
 
-{{< figure src="/images/ethernet_wiring.jpg" alt="" title="" attr="Brett Sayles, Pexels" attrlink="https://www.pexels.com/photo/ethernet-cable-connected-to-a-compartment-port-2881232/" >}}
+{{< figure src="/images/ethernet_wiring.jpg" width="800" alt="" title="" attr="Brett Sayles, Pexels" attrlink="https://www.pexels.com/photo/ethernet-cable-connected-to-a-compartment-port-2881232/" >}}
 
 The big problem with this (of which there were others), was whenever there were issues we didn’t know who was sitting where, or what outlet was connected to which port on the patch panel. So, the CTO decided that "we" should identify which patch panel port went to which outlet at each desk. The fact that this should have been done from the beginning, and by those of us actually running the wiring instead of the contractors, was lost on him. It wasn’t the first, nor was it the last, such example.
 
