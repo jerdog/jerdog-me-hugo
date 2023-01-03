@@ -13,11 +13,11 @@ toc: false
 ---
 So the year is 2008. My wife and I have 3 kids, 2 full-time jobs, and we’ve just bought a coffee shop. No one ever said I was the smartest pea in the pod.
 
-![](https://cdn-images-1.medium.com/max/360/1*P-Z77AROx4If0Bfy9rcY9g.png)<figcaption>My wife and I, circa 2010.</figcaption>
+{{< figure src="https://cdn-images-1.medium.com/max/360/1*P-Z77AROx4If0Bfy9rcY9g.png" attr="My wife and I, circa 2010" >}}
 
 Over the next two years we rebuilt the shop from an exclusive, failing shop to a vibrant, inclusive, growing shop. We were educating people on the nectar of the gods, and helping them make the best choices they could with their coffee money. We began to build relationships, some of which continue to this day, and I learned a few things about “developer relations.”
 
-![](https://cdn-images-1.medium.com/max/791/1*7BQ-UZbnvddXMnxZLZyKUw.png)<figcaption>Black Dog Coffeehouse, Lenexa, Kansas, USA.</figcaption>
+{{< figure src="https://cdn-images-1.medium.com/max/791/1*7BQ-UZbnvddXMnxZLZyKUw.png" attr="Black Dog Coffeehouse, Lenexa, Kansas, USA" >}}
 
 See I had spent years as a developer, going back to the mid-80s with BASIC on the Atari 600XL, and I had spent years in communities, starting with BBS’s before I was 13. What I hadn’t really connected the dots with was what drove developers and communities, and what this thing was that would eventually be called Developer Relations.
 
@@ -51,7 +51,7 @@ Those are just a few. She also loved placing demeaning signs all over the shop f
 
 When we came in, on the first day, we removed all of those signs. I don’t recall what we did with them exactly, but I want to say we burned them. WITH _FIRE!!!_
 
-![](https://cdn-images-1.medium.com/max/440/0*NKSimfaQW7pn3DEQ.gif)
+{{< figure src="https://cdn-images-1.medium.com/max/440/0*NKSimfaQW7pn3DEQ.gif" >}}
 
 We did continue to find signs throughout the shop over the ensuing months, and each one had their own level of absurdity. One of the first things we did though, after hosting a staff weenie-roast around the sign bonfire, was to start interacting with people by getting to know them, asking their names, and encouraging the staff to do so as well. One of the first things we saw from those early activities was that people noticed. And they said something. A lot of somethings.
 
@@ -63,7 +63,7 @@ Which brings me to a principle of successful DevRel programs: **ruthlessly elimi
 
 I’m glad you asked.
 
-![](https://cdn-images-1.medium.com/max/400/0*ZaGCywPzTkuv7Cph)
+{{< figure src="https://cdn-images-1.medium.com/max/400/0*ZaGCywPzTkuv7Cph" >}}
 
 Imagine you walk into your local coffee shop (and to be clear, I mean a locally-owned, independent shop that isn’t Charbucks, Dunkin’ Donuts, etc — I didn’t say I wasn’t biased) — what do you see? What do you smell? What do you hear? If they’re doing things correctly, you’ll see crowds of people around tables working, talking or reading; you’ll smell freshly ground coffee; you’ll hear the whirr of the grinders, the chirping of (correct) milk steaming, the hum of music from some eclectic (and if you’re lucky, good) alternative band.
 
@@ -75,7 +75,8 @@ The answer is of course that it shouldn’t. The same way you create a positive 
 
 Think about the coffee shop as your DevRel program, the baristas as the team, the coffee as your product(s), the espresso machine as your tools, and so on. Each of those working (or not) together can influence the perception of your company, just as a good/bad cup of coffee can make/break your coffee shop.
 
-![](https://cdn-images-1.medium.com/max/1024/1*nXI3QngKKja0sG0qHNkgmw.jpeg)
+{{< figure src="https://cdn-images-1.medium.com/max/1024/1*nXI3QngKKja0sG0qHNkgmw.jpeg" >}}
+![]()
 
 ### “Welcome! What can we get for you today?”
 
