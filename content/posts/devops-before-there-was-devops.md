@@ -41,42 +41,42 @@ I had found the magical solution. Over the next roughly 2hrs, our building exper
 
 I had implemented, without even knowing it, a few of the core DevOps principles (as laid out in Emily Freeman's fantastic book ["DevOps for Dummies"](http://amzn.to/2XL7lGM)) before they were a thing. I was a trailblazer!
 
-##Encourage teamwork
+## Encourage teamwork
 Instead of taking on the project all myself, I efficiently roped others into my ambitious gamble. They unknowingly provided me with the legwork, and allowed me to sit in the server room with my feet up, and eat bonbons until the next group of people recognised they needed to join me in this project.
 
 {{< figure src="/images/moira-allofusshines.GIF" alt="" title="" attr="via GIPHY" attrlink="" >}}
 
-##Reduce silos
+## Reduce silos
 I live in Kansas. Silos are a regular thing across the plains. I can honestly say, that as a result of my brilliant plan, no new silos were created during, or since. I'd say that was successful.
 
 {{< figure src="/images/success-for-breakfast.GIF" alt="" title="" attr="via GIPHY" attrlink="" >}}
 
-##Practice systems thinking
+## Practice systems thinking
 I holistically approached the problem by using all of the resources available to me. My chair was comfortable, I had the patch panels and switches within easy reach, the telephone had a speakerphone, and I had a pen ready to write down the location and it had plenty of ink. 
 
 {{< figure src="/images/hmph.GIF" alt="" title="" attr="via GIPHY" attrlink="" >}}
 
-##Learn from failure
+## Learn from failure
 I recognised the failure in not marking locations when the wires were ran left me with a learning opportunity on how to automate. I also learned that a ball point pen wasn't as effective as a Sharpie. 
 >“Failure is the condiment that gives success its flavor.”
 ― Truman Capote
 
-##Communicate
+## Communicate
 Telephones. They used to be used to talk on, not text and take selfies. I used it. I communicated with multiple people over a few hours, and they were all extremely thankful.
 
 {{< figure src="/images/telephone.GIF" alt="" title="" attr="via GIPHY" attrlink="" >}}
 
-##Accept feedback
+## Accept feedback
 I heard, loud and clear, that people were having issues with their internet connection. I took that feedback and rolled it into actionable results, i.e. I plugged their cable back in. I then accepted that they were happy with the service I had given. I'd say that was a very productive morning.
 
 {{< figure src="/images/feedback.GIF" alt="" title="" attr="via GIPHY" attrlink="" >}}
 
-##Iterate rapidly
+## Iterate rapidly
 The challenge with any project, be it software or building a deck (if you're reading this, you would be **100% correct** that I should not help you build a deck), is how quickly you can repeat what you've just done, making any changes along the way, and roll it out, thus making way for the next sprint. I wasn't going to be running any race, still won't, but for me I was able to take a 1-2 day process, and turn it into a less than half a day success story by breaking it down into groups of 10. I iterated like a BOSS!
 
 {{< figure src="/images/like-a-boss.GIF" alt="" title="" attr="via GIPHY" attrlink="" >}}
 
-##Automate where appropriate
+## Automate where appropriate
 Finally, we come to automation. This is where I think my 20 year old self really excelled. I was able to automate the manual process of going to 70+ outlets in the building and using a tone generator on every one, down to never leaving my chair and having everyone in the building do the task for me. I dare say that also was a good example of teamwork.
 
 {{< figure src="/images/penguin-teamwork.GIF" alt="" title="" attr="via GIPHY" attrlink="" >}}
