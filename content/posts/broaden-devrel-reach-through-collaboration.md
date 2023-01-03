@@ -19,7 +19,7 @@ And I love it. All of it. Well, maybe not _all_ of it. But it's what I love doin
 
 With all of the hard work that building communities is, why would you ever make it that much harder on yourself by building your community in a bubble? Why position yourself on an island, staring at Wilson?
 
-![wilson](/images/wilson.gif)<figcaption><a href="https://giphy.com/gifs/lana-parrilla-na5eo4HbIVO7K">via GIPHY</a></figcaption>
+{{< figure src="/images/wilson.gif" alt="" title="" attr="via GIPHY" attrlink="" >}}
 
 Building developer communities requires you to function much like the very developers you're building your community for.  Developers exist in interconnected communities due to the particular software or technology they might develop with/for, their hobbies, etc. These might be everything from TypeScript to Open Source to Salesforce Trailblazers. Because of that, it makes sense to grow a community, especially when starting from scratch, by collaborating with others.
 
@@ -29,8 +29,7 @@ This collaboration starts by first taking stock of the developers in your commun
 
 You have a product which developers use to make their job easier. Let's say that the developers using your product have to install it somewhere, whether it's in the cloud, on-premise, etc. One such product happens to have a very active community of open source contributors who the company behind the product gets together yearly for a community conference. At this conference are developers who work at the same companies that you are targeting for adoption of your product. This is a prime opportunity to make the worlds collide, for lack of a better term. 
 
-![collaborate](/images/collab.gif)<figcaption><a href="https://giphy.com/gifs/lana-parrilla-3peISTXJFTBZK">via GIPHY</a></figcaption>
-
+{{< figure src="/images/collab.gif" alt="" title="" attr="via GIPHY" attrlink="" >}}
 
 There are a number of ways that you can get involved in these other communities:
 - Meetups where you both sponsor and speak on something where both tech is used together
