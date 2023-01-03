@@ -30,8 +30,8 @@ One of the first steps is to make sure you fully understand everything you can a
 
 These will help to give you an idea of the company and how it’s structured and what you might be faced with on Day 1. All of the above come with the caveat that businesses can, and do, change from the time you receive the answers above to the time you start. However, this will give you a foundation to build off of.
 
-![Beginning meetings](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ndebj3n68n7fr5c3hygi.jpg)
-_photo by <a href="https://unsplash.com/@timmarshall?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Tim Marshall</a> on <a href="https://unsplash.com/s/photos/new-meetings?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>_
+{{< figure src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ndebj3n68n7fr5c3hygi.jpg" width="800" attr="Tim Marshall, Unsplash" attrlink="https://unsplash.com/s/photos/new-meetings?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" >}}
+
 ## When you start
 That first day, or week(s) in some cases, is usually full of all of the onboarding tasks which will occupy your time. That is, however, a good time to start your own personal onboarding to the team and company with some of the below steps:
 
