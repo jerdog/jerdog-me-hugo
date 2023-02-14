@@ -39,9 +39,9 @@ jobs:
           keys:
             # See https://circleci.com/docs/2.0/caching/
             - netlify-v2-{{ checksum "package-lock.json" }}
-      - run: npm install netlify-cli
       - attach_workspace:
           at: /home/circleci/project
+      - run: npm install netlify-cli
       - run: 
           name: "Setup custom env variables"
           command: echo 'export NETLIFY_SITE_ID="$NETLIFY_SITE_ID"' >> $BASH_ENV
