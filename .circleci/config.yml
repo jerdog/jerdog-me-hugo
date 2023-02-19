@@ -58,11 +58,11 @@ workflows:
   default-flow:
     jobs:
       - build
-      - deploy:
-          requires:
-            - build
-          filters:
-            branches:
-              only: main
+#      - deploy:
+#          requires:
+#            - build
+#          filters:
+#            branches:
+#              only: main
 
 # VS Code Extension Version: 1.5.1

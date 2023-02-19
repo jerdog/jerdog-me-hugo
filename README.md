@@ -7,3 +7,8 @@
 
 Personal website built using @gohugoio and [Hugo Profile](https://github.com/gurusabarish/hugo-profile) theme and deployed via Netlify.  
 
+## New posts
+To start a new post:
+```bash
+hugo new posts/new-post.md
+```
