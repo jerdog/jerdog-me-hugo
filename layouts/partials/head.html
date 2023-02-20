@@ -21,7 +21,8 @@
 </noscript>
 
 <!-- custom CSS -->
-<link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/custom.css" media="all">
+{{ $styles := resources.Get "scss/custom.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="all">
 
 <!-- font configuration -->
 <link rel="stylesheet" href="{{ .Site.Params.staticPath }}/css/font.css" media="all">
