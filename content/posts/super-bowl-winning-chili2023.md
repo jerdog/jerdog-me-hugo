@@ -2,7 +2,7 @@
 title: "Super Bowl Winning Chili 2023"
 date: 2023-02-19T17:19:27-06:00
 draft: true
-image: 
+image: "/images/chili-2023.jpg"
 description: ""
 author: "Jeremy Meiss"
 tags:
