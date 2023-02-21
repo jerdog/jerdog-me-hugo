@@ -35,6 +35,10 @@ Menus:
     #   name: About Me
     #   url: /#about/
     #   weight: 1
+    - identifier: speaking
+      name: Speaking
+      url: https://speaking.jmeiss.me
+      weight: 1
     - identifier: blog
       name: Recent posts
       url: /posts/
