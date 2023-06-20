@@ -2,6 +2,7 @@ baseURL: https://jmeiss.me
 languageCode: en-us
 title: Jeremy Meiss || DevRel / Community Professional
 theme: hugo-profile
+googleAnalytics: "G-7LJ0M7K1R6"
 
 outputs:
   home:
