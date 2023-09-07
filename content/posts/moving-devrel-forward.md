@@ -1,8 +1,8 @@
 ---
-title: Moving Developer Relations Forward
+title: "5-Part Series: Moving Developer Relations Forward, Part 1"
 date: 2023-09-06T13:12:50-05:00
 image: /images/couple-pushing-elephant.png
-description: "A series on Developer Relations, and how we can move it forward into the years to come. It is not meant as a definitive roadmap, but more as a kickstart down the road of conversation."
+description: "The first in a 5 Part series on Developer Relations, and how we can move it forward into the years to come. It is not meant as a definitive roadmap, but more as a kickstart down the road of conversation."
 draft: false
 author: "Jeremy Meiss"
 tags:
