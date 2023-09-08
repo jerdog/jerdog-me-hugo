@@ -22,11 +22,11 @@ _**Author's Note:** What follows is Part 2 of a (currently) 5 Part series on Dev
     </tr>
     <tr>
         <td>
-            <li><a href="moving-devrel-forward">Moving Developer Relations Forward</a></li>
+            <li><a href="/posts/moving-devrel-forward">Moving Developer Relations Forward</a></li>
             <li><strong><em>The foundations of Developer Relations (this post)</em></strong></li>
-            <li><a href="asking-the-right-questions-for-devrel-impact">Asking the right questions for DevRel impact</a></li>
-            <li><a href="devrel-and-the-customer-journey">Developer Relations and the customer journey</a></li>
-            <li><a href="positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
+            <li><a href="/posts/asking-the-right-questions-for-devrel-impact">Asking the right questions for DevRel impact</a></li>
+            <li><a href="/posts/devrel-and-the-customer-journey">Developer Relations and the customer journey</a></li>
+            <li><a href="/posts/positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
         </td>
     </tr>
 </table>
@@ -45,7 +45,7 @@ I mention all this to say that DevRel is not a new thing. It’s been around for
 
 ![coincidence, I think not!](http://i.imgur.com/Odqpt7c.gif)
 
-And as I wrote about in another post on [my path to DevRel](my-long-winding-devrel-road), I was a Technical Liaison at Hallmark Cards in 1999, which was literally Internal DevRel. 
+And as I wrote about in another post on [my path to DevRel](/posts/my-long-winding-devrel-road), I was a Technical Liaison at Hallmark Cards in 1999, which was literally Internal DevRel. 
 
 Much has been written on the subject by many people far smarter than myself, so I won’t go further on defining the function. Here are a few for starters:
 
@@ -62,11 +62,11 @@ The next post in this series is going to talk about the different questions that
     </tr>
     <tr>
         <td>
-            <li><a href="moving-devrel-forward">Moving Developer Relations Forward</a></li>
+            <li><a href="/posts/moving-devrel-forward">Moving Developer Relations Forward</a></li>
             <li><strong><em>The foundations of Developer Relations (this post)</em></strong></li>
-            <li><a href="asking-the-right-questions-for-devrel-impact">Asking the right questions for DevRel impact</a></li>
-            <li><a href="devrel-and-the-customer-journey">Developer Relations and the customer journey</a></li>
-            <li><a href="positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
+            <li><a href="/posts/asking-the-right-questions-for-devrel-impact">Asking the right questions for DevRel impact</a></li>
+            <li><a href="/posts/devrel-and-the-customer-journey">Developer Relations and the customer journey</a></li>
+            <li><a href="/posts/positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
         </td>
     </tr>
 </table>

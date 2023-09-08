@@ -14,7 +14,7 @@ toc: true
 
 _**Author's Note:** What follows is Part 3 of a (currently) 5 Part series on Developer Relations, and how we can move it forward into the years to come. It is not meant as a definitive roadmap, but more as a kickstart down the road of conversation. Please comment as you see fit, and be part of what Developer Relations can become._
 
-_Also of note: much of this specific content comes from a previous post I wrote, ["So you're starting a new DevRel job"](so-youre-starting-a-new-devrel-job)_
+_Also of note: much of this specific content comes from a previous post I wrote, ["So you're starting a new DevRel job"](/posts/so-youre-starting-a-new-devrel-job)_
 
 ---
 
@@ -137,11 +137,11 @@ So now let’s return to those dreaded questions around value.
     </tr>
     <tr>
         <td>
-            <li><a href="moving-devrel-forward">Moving Developer Relations Forward</a></li>
-            <li><a href="the-foundations-of-devrel">The foundations of Developer Relations</a></li>
+            <li><a href="/posts/moving-devrel-forward">Moving Developer Relations Forward</a></li>
+            <li><a href="/posts/the-foundations-of-devrel">The foundations of Developer Relations</a></li>
             <li><strong><em>Asking the right questions for DevRel impact (this post)</em></strong></li>
-            <li><a href="devrel-and-the-customer-journey">Developer Relations and the customer journey</a></li>
-            <li><a href="positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
+            <li><a href="/posts/devrel-and-the-customer-journey">Developer Relations and the customer journey</a></li>
+            <li><a href="/posts/positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
         </td>
     </tr>
 </table>

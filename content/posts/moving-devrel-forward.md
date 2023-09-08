@@ -23,10 +23,10 @@ _**Author's Note:** What follows is Part 1 of a (currently) 5 Part series on Dev
     <tr>
         <td>
             <li><strong><em>Moving Developer Relations Forward (this post)</em></strong></li>
-            <li><a href="the-foundations-of-devrel">The foundations of Developer Relations</a></li>
-            <li><a href="asking-the-right-questions-for-devrel-impact">Asking the right questions for DevRel impact</a></li>
-            <li><a href="devrel-and-the-customer-journey">Developer Relations and the customer journey</a></li>
-            <li><a href="positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
+            <li><a href="/posts/the-foundations-of-devrel">The foundations of Developer Relations</a></li>
+            <li><a href="/posts/asking-the-right-questions-for-devrel-impact">Asking the right questions for DevRel impact</a></li>
+            <li><a href="/posts/devrel-and-the-customer-journey">Developer Relations and the customer journey</a></li>
+            <li><a href="/posts/positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
         </td>
     </tr>
 </table>
@@ -69,10 +69,10 @@ Before I lead you too far down the rabbit hole, let’s start with some basics ,
     <tr>
         <td>
             <li><strong><em>Moving Developer Relations Forward (this post)</em></strong></li>
-            <li><a href="the-foundations-of-devrel">The foundations of Developer Relations</a></li>
-            <li><a href="asking-the-right-questions-for-devrel-impact">Asking the right questions for DevRel impact</a></li>
-            <li><a href="devrel-and-the-customer-journey">Developer Relations and the customer journey</a></li>
-            <li><a href="positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
+            <li><a href="/posts/the-foundations-of-devrel">The foundations of Developer Relations</a></li>
+            <li><a href="/posts/asking-the-right-questions-for-devrel-impact">Asking the right questions for DevRel impact</a></li>
+            <li><a href="/posts/devrel-and-the-customer-journey">Developer Relations and the customer journey</a></li>
+            <li><a href="/posts/positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
         </td>
     </tr>
 </table>

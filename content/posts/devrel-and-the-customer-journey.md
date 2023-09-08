@@ -14,8 +14,6 @@ toc: true
 
 _**Author's Note:** What follows is Part 3 of a (currently) 5 Part series on Developer Relations, and how we can move it forward into the years to come. It is not meant as a definitive roadmap, but more as a kickstart down the road of conversation. Please comment as you see fit, and be part of what Developer Relations can become._
 
-_Also of note: much of this specific content comes from a previous post I wrote, ["So you're starting a new DevRel job"](so-youre-starting-a-new-devrel-job)_
-
 ---
 
 <table width="50%" border="1">
@@ -24,11 +22,11 @@ _Also of note: much of this specific content comes from a previous post I wrote,
     </tr>
     <tr>
         <td>
-            <li><a href="moving-devrel-forward">Moving Developer Relations Forward</a></li>
-            <li><a href="the-foundations-of-devrel">The foundations of Developer Relations</a></li>
-            <li><a href="asking-the-right-questions-for-devrel-impact">Asking the right questions for DevRel impact</a></li>
+            <li><a href="/posts/moving-devrel-forward">Moving Developer Relations Forward</a></li>
+            <li><a href="/posts/the-foundations-of-devrel">The foundations of Developer Relations</a></li>
+            <li><a href="/posts/asking-the-right-questions-for-devrel-impact">Asking the right questions for DevRel impact</a></li>
             <li><strong><em>Developer Relations and the customer journey (this post)</em></strong></li>
-            <li><a href="positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
+            <li><a href="/posts/positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
         </td>
     </tr>
 </table>
@@ -41,7 +39,7 @@ DevRel is not a revenue-generating organization - it’s a cost center. As a res
 
 One of the best ways these teams can avoid the value-oriented questions, is by proving their value long before it gets to that point. The value DevRel adds for a company must be aligned with the needs of the business and its bottomline. It MUST, or else it will be gone. DevRel needs to understand what the inputs are the business has/need and then shape its activities accordingly. But how do you do it?
 
-One of the first things I have done whenever I join a new company, is start asking questions. I won’t bore you with all of the details, as I already wrote about them [here](asking-the-right-questions-for-devrel-impact). The purpose of these questions is really threefold:
+One of the first things I have done whenever I join a new company, is start asking questions. I won’t bore you with all of the details, as I already wrote about them [here](/posts/asking-the-right-questions-for-devrel-impact). The purpose of these questions is really threefold:
 
 1. Get myself in front of as many people within the organization and company as possible. It’s a great way to meet new people, and to make connections for what will come later.
 2. Identify all of the wants, needs, and perceptions of DevRel early on instead of finding out months down the road. Sure, that is bound to still happen, but this helps to limit it early on.
@@ -170,11 +168,11 @@ Businesses are always changing. One week the focus could be to raise awareness i
     </tr>
     <tr>
         <td>
-            <li><a href="moving-devrel-forward">Moving Developer Relations Forward</a></li>
-            <li><a href="the-foundations-of-devrel">The foundations of Developer Relations</a></li>
-            <li><a href="asking-the-right-questions-for-devrel-impact">Asking the right questions for DevRel impact</a></li>
+            <li><a href="/posts/moving-devrel-forward">Moving Developer Relations Forward</a></li>
+            <li><a href="/posts/the-foundations-of-devrel">The foundations of Developer Relations</a></li>
+            <li><a href="/posts/asking-the-right-questions-for-devrel-impact">Asking the right questions for DevRel impact</a></li>
             <li><strong><em>Developer Relations and the customer journey (this post)</em></strong></li>
-            <li><a href="positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
+            <li><a href="/posts/positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
         </td>
     </tr>
 </table>
