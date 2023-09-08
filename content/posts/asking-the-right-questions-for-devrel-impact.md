@@ -24,11 +24,11 @@ _Also of note: much of this specific content comes from a previous post I wrote,
     </tr>
     <tr>
         <td>
-            <li><a href="moving-devrel-forward">Moving Developer Relations Forward</a></li>
-            <li><a href="the-foundations-of-devrel">The foundations of Developer Relations</a></li>
+            <li><a href="/posts/moving-devrel-forward">Moving Developer Relations Forward</a></li>
+            <li><a href="/posts/the-foundations-of-devrel">The foundations of Developer Relations</a></li>
             <li><strong><em>Asking the right questions for DevRel impact (this post)</em></strong></li>
-            <li><a href="devrel-and-the-customer-journey">Developer Relations and the customer journey</a></li>
-            <li><a href="positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
+            <li><a href="/posts/devrel-and-the-customer-journey">Developer Relations and the customer journey</a></li>
+            <li><a href="/posts/positioning-devrel-as-a-resource">Positioning DevRel as a resource within your company</a></li>
         </td>
     </tr>
 </table>
