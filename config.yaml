@@ -139,7 +139,7 @@ params:
         - "Camping"
 
   # Experience
-   experience:
+    experience:
      enable: true
      # title: "Custom Name"
      items:
