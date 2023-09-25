@@ -2,23 +2,23 @@
 command = 'echo -e "\ngoogleAnalytics: $GOOGLE_ANALYTICS \n" >> config.yaml && hugo --gc --minify'
 
 [context.production.environment]
-HUGO_VERSION = "0.109.0"
+HUGO_VERSION = "0.119.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 #HUGO_THEME = "repo"
 
 [context.deploy-preview]
-command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
-HUGO_VERSION = "0.109.0"
+HUGO_VERSION = "0.119.0"
 #HUGO_THEME = "repo"
 
 [context.branch-deploy]
-command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
+command = "hugo --gc --buildFuture --buildDrafts -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
-HUGO_VERSION = "0.109.0"
+HUGO_VERSION = "0.119.0"
 
 [[redirects]]
   from = "/about"

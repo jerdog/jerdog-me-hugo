@@ -81,7 +81,7 @@ params:
     disableSearch: true
     menus:
       disableAbout: false
-      disableExperience: true
+      disableExperience: false
       disableEducation: true
       disableProjects: true
       disableAchievements: true
@@ -110,6 +110,8 @@ params:
           url: https://hachyderm.io/@jerdog
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/jeremymeiss
+        - icon: fas fa-file
+          url: https://drive.google.com/file/d/1Bwx6LMD--A7mMV3nUbp3M5D_hC5Wg07t/view?usp=sharing
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://jerdog.me"
@@ -139,66 +141,73 @@ params:
         - "Camping"
 
   # Experience
-  # experience:
-  #   enable: false
-  #   # title: "Custom Name"
-  #   items:
-  #     - job: ""
-  #       company: ""
-  #       companyUrl: "https://example.com"
-  #       date: "Jan 2022 - present"
-  #       featuredLink:
-  #         enable: true
-  #         name: "View the project"
-  #         url: "https://example.com"
-  #       content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
-  #
-  #     - job: ""
-  #       company: ""
-  #       companyUrl: "https://example.com"
-  #       date: "Sep 2020 - Dec 2021"
-  #       featuredLink:
-  #         enable: true
-  #         url: "https://example.com"
-  #       info:
-  #         enable: true
-  #         content: I worked as a software developer for more than one year in Amazon.
-  #       content: |
-  #         I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-  #         - Lead backend developer for a product.
-  #         - Created a frontend design for a product.
-  #     - job: ""
-  #       company: ""
-  #       companyUrl: "https://example.com"
-  #       date: "Jan 2020 - Aug 2020"
-  #       info:
-  #         enable: false
-  #       featuredLink:
-  #         enable: true
-  #         url: "https://example.com"
-  #       content: |
-  #         I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-  #         - Lead backend developer for a product.
-  #         - Created a frontend design for a product.
-  #     - job: ""
-  #       company: ""
-  #       companyUrl: "https://example.com"
-  #       date: "June 2017 - Nov 2019"
-  #       featuredLink:
-  #         enable: true
-  #         url: "https://example.com"
-  #       content: |
-  #         I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city.
-  #         - Lead backend developer for a product.
-  #         - Created a frontend design for a product.
-  #     - job: ""
-  #       company: ""
-  #       companyUrl: "https://example.com"
-  #       date: "Feb 2016 - Mar 2017"
-  #       content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+  experience:
+    enable: true
+    title: "Recent Experience"
+    items:
+      - job: "Director, DevRel & Community"
+        company: "CircleCI"
+        companyUrl: "https://circleci.com"
+        date: "Feb 2020 - Aug 2023"
+        # featuredLink:
+        #   enable: true
+        #   url: "https://example.com"
+        info:
+          enable: false
+          content: ""
+        content: |
+          Led both execution and strategy in building a program to engage, educate, and excite the user base and build relationships with developers across the verticals. Managed a global team of Developer Advocates and Community Managers, with a focus on creating scalable and impactful programs that served both internal and external audiences. Collaborated closely with Product, Customer Engineering, Business Development, Engineering, Brand Marketing teams, and Events to ensure coordinated participation and a consistent narrative for the developer. In addition to the above, worked with Marketing and Sales to launch new services, features, and enhancements effectively through the community, as well as being the face of the CircleCI Developer Community through speaking engagements, webinars, and other events.
+
+          *Achievements:*
+          - Grew team through the COVID-19 pandemic, and built a strong, cohesive team that was able to pivot to a virtual-first world.
+          - Formulated strategy which integrated the DevRel & Community org into the Customer journey, and built tracking and reporting mechanisms to measure success.
+          - Built the event participation model for the DevRel & Community org which contributed over $3mil in pipeline during my time there.
+
+      - job: "DevNetwork Advisory Board: Dev Advocacy"
+        company: "DevNetwork"
+        companyUrl: "https://www.devnetwork.com/"
+        date: "Jan 2022 - ongoing Advisory role"
+        info:
+          enable: false
+          content: ""
+        # featuredLink:
+        #   enable: false
+        #   name: "View the project"
+        #   url: "https://example.com"
+        # content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
+  
+      - job: "Director, DevRel & Community"
+        company: "Solace"
+        companyUrl: "https://solace.com/"
+        date: "Feb 2019 - Feb 2020"
+        info:
+          enable: false
+          content: ""
+        # featuredLink:
+        #   enable: true
+        #   url: "https://example.com"
+        content: |
+          Led, coordinated, and managed the global Developer Community, the team, and Developer Relations initiatives. Used Developer Advocacy to shape the product roadmap, refine the developer experience, and build growth and engagement. Responsible for putting in place the developer content strategy to provide developers using the PubSub+ platform with the resources necessary to be successful, from samples to tutorials to workshops and more. Attended and spoke at conferences, events, and participated in online and offline communities, to grow the awareness and implementation of Solace PubSub+.
+
+      - job: "Head of Community"
+        company: "Auth0"
+        companyUrl: "https://auth0.com"
+        date: "Dec 2017 - Feb 2019"
+        info:
+          enable: false
+          content: ""
+        # featuredLink:
+        #   enable: false
+        #   url: "https://example.com"
+        content: |
+          Led a team tasked with building, growing, and maintaining a Community for Developers interested in Auth0 products. Developed and implemented the strategy for online and offline engagement, as well as refining the Developer Experience, and built relationships with developers. Attended and spoke at events around Modern Identity, Community, and Developer Relations. Built out Open Source Maintainer strategy, as well as implemented an MVP/Experts program.
+      - job: ""
+        company: ""
+        companyUrl: "https://example.com"
+        date: "Feb 2016 - Mar 2017"
+        content: "I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. I am currently working on a project that will be used to help people find the best way to get around the city."
 
   # # Education
-  # education:
   #   enable: true
   #   # title: "Custom Name"
   #   index: false
