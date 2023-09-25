@@ -7,8 +7,24 @@
 
 Personal website built using @gohugoio and [Hugo Profile](https://github.com/gurusabarish/hugo-profile) theme and deployed via Netlify.  
 
-## New posts
-To start a new post:
+## Local dev
+
+* Clone the repo and submodule, and launch local server
+
+```bash
+git clone --recursive https://github.com/jerdog/jerdog-me-hugo.git
+cd jerdog-me-hugo
+hugo server
+```
+
+* To start a new post:
+
 ```bash
 hugo new posts/new-post.md
+```
+
+* To have Hugo display future posts and drafts:
+
+```bash
+hugo server --buildDrafts --buildFuture
 ```
