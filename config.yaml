@@ -110,6 +110,8 @@ params:
           url: https://hachyderm.io/@jerdog
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/jeremymeiss
+        - icon: fas fa-file
+          url: https://drive.google.com/file/d/1Bwx6LMD--A7mMV3nUbp3M5D_hC5Wg07t/view?usp=sharing
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://jerdog.me"
