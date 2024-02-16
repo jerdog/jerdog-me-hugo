@@ -13,6 +13,8 @@ outputs:
     - "HTML"
     - "RSS"
 
+enableEmoji: true
+
 Paginate: 10
 enableRobotsTXT: true
 
