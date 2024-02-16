@@ -122,9 +122,8 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a Developer Relations and Community professional based in the Midwest. I was recently the Director of DevRel & Community at CircleCI, and previously at Solace, Auth0, XDA, and numerous consulting gigs. 
-      With almost 30 years in Tech, covering just about every functional area including Support, SysAdmin, Application Developer, Program Manager, and Business Analyst, I am active in the DevRel and DevOps communities, and co-created <a href="https://devopspartygames.com" target="_blank">DevOpsPartyGames.com</a>. 
-      Husband and father, I am house-broken, and (generally) play well with others.
+      I am a seasoned Developer Experience and Community leader based in the Midwest, formerly the Director of DevRel & Community at CircleCI, and previously at Solace, Auth0, and XDA. 
+      With almost 30 years in Tech, covering just about every functional area including support, system and database administration, application and web development, project management, program management, and systems analysis, I am active in the DevRel and DevOps communities, and co-created <a href="https://devopspartygames.com" target="_blank">DevOpsPartyGames.com</a>. Husband and father, I am house-broken, and (generally) play well with others.
       <p>I am passionate about community and software development, and the processes involved with each, and take great happiness in evolving the understanding between companies and their technical audience. I am driven to enable the technically savvy to be your greatest champions.</p>
       <p style="font-size:20px;text-align:center;"><strong><em>Developers don’t care that you know, until they know that you care.</em></strong></p>
     skills:
