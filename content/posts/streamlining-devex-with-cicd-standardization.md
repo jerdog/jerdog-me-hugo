@@ -10,7 +10,7 @@ tags:
   - developer experience
   - devops
   - cicd
-toc: true
+toc: false
 ---
 
 _**Author's Note:** What follows is the foundation of a conference talk most recently given at FOSDEM 2024, and has been split up into 3 parts for easy reading. This is the introductory post - you can read the other posts in the links below._ 
