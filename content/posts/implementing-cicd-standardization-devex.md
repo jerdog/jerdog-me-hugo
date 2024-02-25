@@ -1,7 +1,17 @@
 ---
-title: "Implementing CI/CD standardization to streamline the Developer Experience"
-date: 2024-02-24T18:57:03-08:00
+title: "Implementing CI/CD standardization to streamline the Developer Experience (Part 2 of 3)"
+date: 2024-03-01T12:00:02-06:00
 draft: true
+image: /images/implementing-standardization.jpg
+description: "CI/CD Standardization aims to minimize variability, reduce errors, and foster an environment where developers can efficiently collaborate. You can achieve standardization by defining explicit, repeatable code integration, testing, and deployment processes, thus ensuring a smooth development journey. Implementing CI/CD pipeline standardization is crucial for streamlining the development process and enhancing DevEx."
+summary: "CI/CD Standardization aims to minimize variability, reduce errors, and foster an environment where developers can efficiently collaborate. You can achieve standardization by defining explicit, repeatable code integration, testing, and deployment processes, thus ensuring a smooth development journey. Implementing CI/CD pipeline standardization is crucial for streamlining the development process and enhancing DevEx."
+author: "Jeremy Meiss"
+tags:
+  - devex
+  - developer experience
+  - devops
+  - cicd
+toc: true
 ---
 
 _**Author's Note:** What follows is the foundation of a conference talk most recently given at FOSDEM 2024, and has been split up into 3 parts for easy reading. This is the second post - you can read the other posts in the links below._ 
@@ -18,9 +28,6 @@ _**Author's Note:** What follows is the foundation of a conference talk most rec
         </td>
     </tr>
 </table>
-
-
-## :clipboard: Implementing CI/CD standardization
 
 CI/CD Standardization aims to minimize variability, reduce errors, and foster an environment where developers can efficiently collaborate. You can achieve standardization by defining explicit, repeatable code integration, testing, and deployment processes, thus ensuring a smooth development journey. Implementing CI/CD pipeline standardization is crucial for streamlining the development process and enhancing DevEx. Here are some of the steps and better practices for achieving pipeline standardization.
 

@@ -1,9 +1,10 @@
 ---
-title: "Streamlining Developer Experience by standardizing and implementing interoperability in your CI/CD pipelines"
-publishDate: 2024-03-01T18:05:56-06:00
+title: "Streamlining Developer Experience by standardizing and implementing interoperability in your CI/CD pipelines (Part 1 of 3)"
+publishDate: 2024-03-01T12:00:00-06:00
 draft: true
 image: /images/streamlining-cicd.jpg
 description: "CI/CD's impact on the software engineering industry’s collective DevEx is profound, offering a dynamic shift in how developers collaborate, create, and deliver software. By automating integration, testing, and deployment processes, CI/CD accelerates the development cycles, empowering developers with faster feedback loops, improved code quality, and the ability to iterate swiftly. Standardization and interoperability are key factors in achieving good DevEx."
+summary: "CI/CD's impact on the software engineering industry’s collective DevEx is profound, offering a dynamic shift in how developers collaborate, create, and deliver software. By automating integration, testing, and deployment processes, CI/CD accelerates the development cycles, empowering developers with faster feedback loops, improved code quality, and the ability to iterate swiftly. Standardization and interoperability are key factors in achieving good DevEx."
 author: "Jeremy Meiss"
 tags:
   - devex
