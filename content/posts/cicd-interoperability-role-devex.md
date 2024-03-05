@@ -1,7 +1,7 @@
 ---
 title: "The role of CI/CD interoperability in Developer Experience"
 date: 2024-03-01T12:00:03-06:00
-draft: true
+draft: false
 image: /images/cicd-interoperability.jpg
 description: "A successful DevEx focuses on eliminating obstacles that hinder a developer or practitioner from achieving success. CI/CD interoperability ensures seamless integration across diverse toolsets, fostering flexibility in development environments."
 summary: "A successful DevEx focuses on eliminating obstacles that hinder a developer or practitioner from achieving success. CI/CD interoperability ensures seamless integration across diverse toolsets, fostering flexibility in development environments."
