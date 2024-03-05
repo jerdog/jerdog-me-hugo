@@ -3,7 +3,7 @@
 <link rel="stylesheet" href="{{.Site.Params.staticPath}}/css/single.css">
 
 <!-- fontawesome -->
-<script defer src="{{.Site.Params.staticPath}}/fontawesome-5/all-5.15.4.js"></script>
+<script defer src="{{ .Site.Params.staticPath }}/fontawesome-6/all-6.5.1.js"></script>
 {{ end }}
 
 {{ define "title" }}
@@ -67,12 +67,14 @@
               <ul class="list-inline">
                 <li class="list-inline-item text-center">
                   <a target="_blank" href="https://twitter.com/share?text={{ .Title }}&url={{ .Site.Params.hostName }}{{ .Permalink | absURL }}">
-                    <i class="fab fa-twitter"></i>
+                    <!-- <i class="fab fa-twitter"></i> -->
+                    <i class="fa-brands fa-square-twitter"></i>
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
                   <a target="_blank" href="https://api.whatsapp.com/send?text={{ .Title }}: {{ .Site.Params.hostName }}{{ .Permalink | absURL }}">
-                    <i class="fab fa-whatsapp"></i>
+                    <!-- <i class="fab fa-whatsapp"></i> -->
+                    <i class="fa-brands fa-square-whatsapp"></i>
                   </a>
                 </li>
                 <li class="list-inline-item text-center">
